@@ -1,4 +1,6 @@
 mod my_funcs;
+mod other_funcs;
+
 use crate::my_funcs::add_five;
 fn main() {
     let mut x: u32 = 50;
